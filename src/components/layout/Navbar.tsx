@@ -43,16 +43,16 @@ export function Navbar() {
             <Image 
               src="/logo/logo.png" 
               alt="Tattoo Tornado Logo" 
-              width={48} 
-              height={48} 
-              className="shrink-0 h-9 w-9 sm:h-10 sm:w-10 object-contain"
+              width={56} 
+              height={56} 
+              className="shrink-0 h-10 w-10 sm:h-12 sm:w-12 object-contain"
               priority
             />
             <span className="min-w-0 leading-[1.15]">
-              <span className="block font-display text-[13px] xs:text-sm sm:text-base md:text-lg lg:text-xl text-[var(--color-offwhite)] tracking-wide">
+              <span className="block font-display text-base xs:text-lg sm:text-xl md:text-2xl text-[var(--color-offwhite)] tracking-wide">
                 Tattoo Tornado And Paintings
               </span>
-              <span className="block text-[10px] sm:text-[11px] md:text-xs tracking-[0.25em] uppercase text-[var(--color-gold)]/80">
+              <span className="block text-[11px] sm:text-xs tracking-[0.25em] uppercase text-[var(--color-gold)]/80 mt-0.5">
                 - Tattoo Shop
               </span>
             </span>
