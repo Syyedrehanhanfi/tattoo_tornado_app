@@ -13,7 +13,7 @@ export function Hero() {
       {/* Background Image & Overlays */}
       <div className="absolute inset-0">
         <Image
-          src="/img/photo-1562962230-16e4623d36e6.avif"
+          src="/img/photo-1597852075234-fd721ac361d3.avif"
           alt="Tattoo Studio Background"
           fill
           className="object-cover"
